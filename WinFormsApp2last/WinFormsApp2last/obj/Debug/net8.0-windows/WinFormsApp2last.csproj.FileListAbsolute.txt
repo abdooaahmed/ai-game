@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\bin\Debug\net8.0-windows\WinFormsApp2last.exe
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\bin\Debug\net8.0-windows\WinFormsApp2last.deps.json
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\bin\Debug\net8.0-windows\WinFormsApp2last.runtimeconfig.json
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\bin\Debug\net8.0-windows\WinFormsApp2last.dll
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\bin\Debug\net8.0-windows\WinFormsApp2last.pdb
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.Form1.resources
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.dll
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\refint\WinFormsApp2last.dll
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.pdb
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\ref\WinFormsApp2last.dll
+C:\Users\Dell\Desktop\ggg\WinFormsApp2last\WinFormsApp2last\obj\Debug\net8.0-windows\WinFormsApp2last.Properties.Resources.resources
